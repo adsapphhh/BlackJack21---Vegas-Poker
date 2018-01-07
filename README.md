@@ -1,6 +1,6 @@
 # BlackJack21---Vegas-Poker
-In the game, you are participating in an interesting golf match. You need to control the intensity and angle of the launch and pass the golf balls into the hole. The fewer the rods, the higher the score.
-![Alt text](https://github.com/appdev-support/Golf/blob/master/0x0ss%20(1).jpg)
+Players can get the corresponding chips in the 21 point game and get more chips to get a higher score.
+![Alt text](https://github.com/appdev-support/BlackJack21---Vegas-Poker/blob/master/IMG_0403.PNG)
 Framework
 
 Center center server
@@ -21,7 +21,7 @@ LGPL-2.1
 
 Technical support
 
-appdev1883@gmai.com
+apphill1883@gmail.com
 
 juggle:https://github.com/qianqians/juggle
 
